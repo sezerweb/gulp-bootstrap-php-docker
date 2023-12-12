@@ -1,0 +1,20 @@
+
+// Custom bootstrap variable overrides
+@import "bootstrap_variable_overrides";
+
+// Bootstrap and its default variables
+@import "../../node_modules/bootstrap/scss/bootstrap";
+
+// Bootstrap only font no svgs
+@import "./_bootstrap-icons";
+
+
+@import "variables";
+@import "mixins";
+@import "general";
+@import "layout";
+@import "module";
+
+
+//custom
+@import "./_custom";

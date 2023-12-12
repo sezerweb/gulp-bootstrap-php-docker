@@ -1,0 +1,22 @@
+[
+   {
+      "id": "1",
+      "fullName": "Sezer Akbulut",
+      "birthYear": "1977"
+   },
+   {
+      "id": "2",
+      "fullName": "Safiye Akbulut",
+      "birthYear": "1980"
+   },
+   {
+      "id": "3",
+      "fullName": "Ceren Akbulut",
+      "birthYear": "2007"
+   },
+   {
+      "id": "0",
+      "fullName": "Kerem Akbulut",
+      "birthYear": "2014"
+   }
+]

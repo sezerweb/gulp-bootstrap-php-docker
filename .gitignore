@@ -1,0 +1,7 @@
+build
+dev
+node_modules
+db-data
+SEZER
+src/scss/bootstrap
+src/scss/_bootstrap-icons.scss
